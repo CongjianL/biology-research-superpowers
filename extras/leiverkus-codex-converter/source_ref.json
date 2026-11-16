@@ -1,0 +1,9 @@
+{
+  "upstream_repo": "https://github.com/leiverkus/research-superpowers",
+  "upstream_commit": "da0effdf162cd96a42009fe2dfe701b352e50ba8",
+  "upstream_version": "0.47.0",
+  "upstream_license": "MIT",
+  "source_skill_count": 18,
+  "source_agent_count": 7,
+  "download_mode": "Download source via Git on user's machine or provide local checkout; full upstream source is not bundled in this kit"
+}

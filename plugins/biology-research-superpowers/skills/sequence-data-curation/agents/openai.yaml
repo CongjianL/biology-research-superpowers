@@ -1,0 +1,3 @@
+interface:
+  display_name: "Sequence Data Curation"
+  short_description: "Curate biological sequence and sample datasets with NCBI/ENA/DDBJ accession ve"

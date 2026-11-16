@@ -1,0 +1,3 @@
+interface:
+  display_name: "Ingest Source"
+  short_description: "Ingest a biological paper, biological database entry, genome assembly, protein"

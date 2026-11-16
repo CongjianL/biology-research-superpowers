@@ -1,0 +1,3 @@
+interface:
+  display_name: "Structure Function Analysis"
+  short_description: "Analyze sequence–structure–function relationships using PDB/AlphaFold structur"

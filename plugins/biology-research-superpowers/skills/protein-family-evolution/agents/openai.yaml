@@ -1,0 +1,3 @@
+interface:
+  display_name: "Protein Family Evolution"
+  short_description: "Analyze protein family evolution: motifs, domain architecture, profiles, Potts"

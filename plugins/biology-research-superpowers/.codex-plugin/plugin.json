@@ -1,0 +1,6 @@
+{
+  "name": "biology-research-superpowers",
+  "version": "0.1.0",
+  "description": "Biology Research Superpowers for Codex",
+  "skills": "./skills/"
+}

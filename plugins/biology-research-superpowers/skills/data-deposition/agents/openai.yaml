@@ -1,0 +1,3 @@
+interface:
+  display_name: "Data Deposition"
+  short_description: "Prepare biology datasets, code, metadata and manuscript data-availability reco"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Wiki Lint"
+  short_description: "Validate a biology research knowledge wiki for missing metadata, broken source"

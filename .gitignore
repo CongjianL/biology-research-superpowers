@@ -1,0 +1,33 @@
+# Python / tests
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+
+# Local secrets and accounts
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+
+# Generated scientific outputs; do not commit private or bulky datasets
+research-sessions/
+research-projects/
+results/
+raw-data/
+dist/
+bio-with-full-upstream/
+biology-with-full-upstream/
+*.log

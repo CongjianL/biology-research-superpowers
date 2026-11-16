@@ -1,0 +1,3 @@
+interface:
+  display_name: "Semantic Wiki Review"
+  short_description: "Semantically audit biology knowledge pages for contradictory claims, mismatche"

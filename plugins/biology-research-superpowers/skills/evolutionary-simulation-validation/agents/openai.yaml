@@ -1,0 +1,3 @@
+interface:
+  display_name: "Evolutionary Simulation Validation"
+  short_description: "Qualify sequence evolution and protein-family simulators with independent orac"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Reproducible Computation"
+  short_description: "Create or audit reproducible bioinformatics computing workflows across local m"

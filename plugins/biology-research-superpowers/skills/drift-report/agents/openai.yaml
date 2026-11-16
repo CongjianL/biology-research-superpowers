@@ -1,0 +1,3 @@
+interface:
+  display_name: "Drift Report"
+  short_description: "Detect provenance drift between biology project datasets, sample metadata, cla"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Figure Evidence Audit"
+  short_description: "Audit figures and tables for biology manuscripts against underlying measuremen"

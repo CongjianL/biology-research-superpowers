@@ -1,0 +1,20 @@
+{
+  "name": "biology-research-local",
+  "interface": {
+    "displayName": "Biology Research Superpowers (Local)"
+  },
+  "plugins": [
+    {
+      "name": "biology-research-superpowers",
+      "source": {
+        "source": "local",
+        "path": "./plugins/biology-research-superpowers"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

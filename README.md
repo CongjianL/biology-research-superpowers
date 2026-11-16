@@ -1,8 +1,5 @@
 # Biology Research Superpowers for Codex
 
-> **Repository bootstrap status (2026-11-16):** This GitHub repository currently contains project documentation only. The complete 29-Skill/8-Agent source tree has not yet been pushed. Use the [source archive provided in ChatGPT](https://github.com/CongjianL/biology-research-superpowers) and run `bash publish_to_github.sh` from the extracted folder to complete publication. Do not treat this repository as installable until the `plugins/` directory appears.
-
-
 An **independent, biology-focused adaptation** of the research lifecycle, audit-trail, and SOFT-GATE approach of [leiverkus/research-superpowers](https://github.com/leiverkus/research-superpowers). This is **not** an official release or a verbatim source port of that repository.
 
 [Chinese documentation](README-zh.md) | [Validation summary](TEST_REPORT.md) | [Scope and provenance](plugins/biology-research-superpowers/SOURCE_AND_SCOPE.md)

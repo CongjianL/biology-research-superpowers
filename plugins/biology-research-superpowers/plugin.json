@@ -1,0 +1,32 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "biology-research-superpowers",
+  "version": "0.1.0",
+  "description": "Evidence-grounded biological research workflow from hypothesis and literature to genomics, phylogeny, simulation, functional assays, reproducible analysis, manuscripts and FAIR deposition.",
+  "author": {
+    "name": "Community biology adaptation; based on research-superpowers by Patrick Leiverkus"
+  },
+  "license": "MIT",
+  "extensions": {
+    "com.openai": {
+      "onboardingSkill": "./skills/using-research-powers/SKILL.md",
+      "interface": {
+        "displayName": "Biology Research Superpowers",
+        "shortDescription": "Auditable biology research for Codex",
+        "longDescription": "Design, search, analyze, validate and publish biological research with verifiable provenance and explicit scientific gates.",
+        "developerName": "Independent community adaptation",
+        "category": "Productivity",
+        "capabilities": [
+          "Read",
+          "Write"
+        ],
+        "websiteURL": "https://github.com/leiverkus/research-superpowers",
+        "defaultPrompt": [
+          "Build an auditable microbial comparative genomics and rhodopsin evolution research plan.",
+          "Review my protein evolution simulator scientific qualification and HPC evidence.",
+          "Audit evidence for a manuscript and distinguish computational predictions from wet-lab function."
+        ]
+      }
+    }
+  }
+}

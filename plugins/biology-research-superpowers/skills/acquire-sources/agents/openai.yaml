@@ -1,0 +1,3 @@
+interface:
+  display_name: "Acquire Sources"
+  short_description: "Acquire and track legally accessible research PDFs, datasets, FASTA, FASTQ, me"
